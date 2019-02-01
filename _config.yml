@@ -1,15 +1,18 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+---
+title: "Welcome to my blog"
+date: 2019-01-27
+---
+
+title: Ambivert coder's blog
+author: Upasana Sinha
+email: usinha62@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This blog is going to cover some really useful stuff about learning and diving into the world of web development, especially for complete newbies. Such as helpful (and mostly free) resources, do's and dont's,etc. 
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: https://twitter.com/AmbivertCoder
+github_username:  https://github.com/Usinha31
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-architect
+theme: minima
